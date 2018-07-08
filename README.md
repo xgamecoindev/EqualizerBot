@@ -3,6 +3,8 @@ Professional Bot For Discord which has more than 180 commands which includes mod
 You can invite the bot and use **eqHelp** command.<br />
 If you have a any questions you can join our support server.<br />
 
+[Website](https://equalizerbot.xyz)
+
 Before you file an issue, please consider these simple rules:
 - Do not reopen an issue
 - Your content should be explicit and spot on the issue
